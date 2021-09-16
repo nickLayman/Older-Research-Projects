@@ -1,0 +1,6 @@
+Pieces: ['R']
+Nonattacking placements: 1
+
+R 
+
+Total nonattacking placements: 1

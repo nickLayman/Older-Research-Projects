@@ -1,0 +1,4 @@
+Pieces: ['Q', 'Q', 'Q']
+Nonattacking placements: 0
+
+Total nonattacking placements: 0

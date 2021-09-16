@@ -1,0 +1,52 @@
+3 queens
+
+Current Total Shadow Count: 0
+Unique Shadow Count for 0 rooks: 0
+
+----------------------------------------------------------------------------------
+
+2 queens
+
+Current Total Shadow Count: 0
+Unique Shadow Count for 1 rooks: 0
+
+----------------------------------------------------------------------------------
+
+1 queens
+Q 1 1 
+1 1 R 
+1 R 1 
+
+1 1 Q 
+R 1 1 
+1 R 1 
+
+1 R 1 
+R 1 1 
+1 1 Q 
+
+1 R 1 
+1 1 R 
+Q 1 1 
+
+
+Current Total Shadow Count: 4
+Unique Shadow Count for 2 rooks: 4
+
+----------------------------------------------------------------------------------
+
+0 queens
+R 1 1 
+1 R 1 
+1 1 R 
+
+1 1 R 
+1 R 1 
+R 1 1 
+
+
+Current Total Shadow Count: 6
+Unique Shadow Count for 3 rooks: 2
+
+----------------------------------------------------------------------------------
+

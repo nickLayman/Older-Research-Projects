@@ -1,0 +1,28 @@
+Pieces: ['R', 'R', 'R']
+Nonattacking placements: 6
+
+R 1 1 
+1 R 1 
+1 1 R 
+
+R 1 1 
+1 1 R 
+1 R 1 
+
+1 R 1 
+R 1 1 
+1 1 R 
+
+1 R 1 
+1 1 R 
+R 1 1 
+
+1 1 R 
+R 1 1 
+1 R 1 
+
+1 1 R 
+1 R 1 
+R 1 1 
+
+Total nonattacking placements: 6

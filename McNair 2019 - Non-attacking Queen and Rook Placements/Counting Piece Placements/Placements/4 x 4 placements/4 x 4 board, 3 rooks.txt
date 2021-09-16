@@ -1,0 +1,133 @@
+Pieces: ['Q', 'R', 'R', 'R']
+Nonattacking placements: 8
+
+Q 1 1 1 
+1 1 R 1 
+1 1 1 R 
+1 R 1 1 
+
+Q 1 1 1 
+1 1 1 R 
+1 R 1 1 
+1 1 R 1 
+
+1 Q 1 1 
+1 1 1 R 
+R 1 1 1 
+1 1 R 1 
+
+1 Q 1 1 
+1 1 1 R 
+1 1 R 1 
+R 1 1 1 
+
+1 1 Q 1 
+R 1 1 1 
+1 R 1 1 
+1 1 1 R 
+
+1 1 Q 1 
+R 1 1 1 
+1 1 1 R 
+1 R 1 1 
+
+1 1 1 Q 
+R 1 1 1 
+1 1 R 1 
+1 R 1 1 
+
+1 1 1 Q 
+1 R 1 1 
+R 1 1 1 
+1 1 R 1 
+
+Pieces: ['R', 'Q', 'R', 'R']
+Nonattacking placements: 4
+
+R 1 1 1 
+1 1 1 Q 
+1 R 1 1 
+1 1 R 1 
+
+1 R 1 1 
+1 1 1 Q 
+R 1 1 1 
+1 1 R 1 
+
+1 1 R 1 
+Q 1 1 1 
+1 1 1 R 
+1 R 1 1 
+
+1 1 1 R 
+Q 1 1 1 
+1 1 R 1 
+1 R 1 1 
+
+Pieces: ['R', 'R', 'Q', 'R']
+Nonattacking placements: 4
+
+1 R 1 1 
+1 1 R 1 
+Q 1 1 1 
+1 1 1 R 
+
+1 R 1 1 
+1 1 1 R 
+Q 1 1 1 
+1 1 R 1 
+
+1 1 R 1 
+R 1 1 1 
+1 1 1 Q 
+1 R 1 1 
+
+1 1 R 1 
+1 R 1 1 
+1 1 1 Q 
+R 1 1 1 
+
+Pieces: ['R', 'R', 'R', 'Q']
+Nonattacking placements: 8
+
+R 1 1 1 
+1 1 R 1 
+1 1 1 R 
+1 Q 1 1 
+
+1 R 1 1 
+1 1 R 1 
+R 1 1 1 
+1 1 1 Q 
+
+1 R 1 1 
+1 1 1 R 
+R 1 1 1 
+1 1 Q 1 
+
+1 R 1 1 
+1 1 1 R 
+1 1 R 1 
+Q 1 1 1 
+
+1 1 R 1 
+R 1 1 1 
+1 R 1 1 
+1 1 1 Q 
+
+1 1 R 1 
+R 1 1 1 
+1 1 1 R 
+1 Q 1 1 
+
+1 1 R 1 
+1 R 1 1 
+1 1 1 R 
+Q 1 1 1 
+
+1 1 1 R 
+1 R 1 1 
+R 1 1 1 
+1 1 Q 1 
+
+Total nonattacking placements: 24

@@ -1,0 +1,4 @@
+5 queens
+
+Current Total Shadow Count: 4
+Unique Shadow Count for 1 rooks: 0
